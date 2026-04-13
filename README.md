@@ -1,3 +1,1 @@
-This repository showcases financial analysis projects focused on budgeting, performance evaluation, and forecasting.
-
-I have also did practice problems that show how I am learning finance( P&L Statments, Balance Sheets, Double Entry Bookeeping)
+This repository showcases financial analysis projects focused on budgeting, performance evaluation, and forecasting. Along with practice problems showing P&L Statments, Balance Sheets, and Double Entry Bookeeping
